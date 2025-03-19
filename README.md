@@ -11,7 +11,7 @@ This repository provides a PoC for vulnerabilities uncovered in the NASA-CFITSIO
 ### Credit
 - SongHyun Bae (@bshyuunn) of TeamH4C
 - GeonWoo Lee (@Cheshire) of TeamH4C
-- SungJin Park(@oulth) of TeamH4C, LIGNex1
+- SungJin Park (@oulth) of TeamH4C, LIGNex1
 - DongHyun Kim (@longlong64bit) of TeamH4C
 - JunOhLee (@IceTream) of TeamH4C
 
