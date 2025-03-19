@@ -14,3 +14,16 @@ This repository provides a PoC for vulnerabilities uncovered in the NASA-CFITSIO
 - SungJin Park(@oulth) of TeamH4C, LIGNex1
 - DongHyun Kim (@longlong64bit) of TeamH4C
 - JunOhLee (@IceTream) of TeamH4C
+
+<table>
+  <tr>
+    <th>NASA-CFITSIO Changes Log</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://example.com">
+        <img width="602" alt="image" src="https://github.com/user-attachments/assets/62eb6aa8-6573-4089-b331-770623f5e364" />
+      </a>
+    </td>
+  </tr>
+</table>
