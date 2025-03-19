@@ -5,7 +5,7 @@ This repository provides a PoC for vulnerabilities uncovered in the NASA-CFITSIO
 - [Utility Tool Negative Size Parameter Vulnerability](./utility-tool-negative-size-parameter-vulnerability/)
 
 ### Details
-- Library: [NASA-CFITSIO]([https://kr.bandisoft.com/bandiview/](https://heasarc.gsfc.nasa.gov/fitsio/))
+- Library: [NASA-CFITSIO](https://heasarc.gsfc.nasa.gov/fitsio/)
 - Version: v4.5.0 (2024/8)
 
 ### Credit
