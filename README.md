@@ -1,8 +1,8 @@
 # cfitsio-4.5.0-utility-vuln-PoC
 This repository provides a PoC for vulnerabilities uncovered in the NASA-CFITSIO utility tool (4.5.0) via fuzzing.
 
-- Utility Tool Heap Buffer Overflow Vulnerability
-- Utility Tool Negative Size Parameter Vulnerability
+- [Utility Tool Heap Buffer Overflow Vulnerability](./%20utility-tool-heap-buffer-overflow-vulnerability/)
+- [Utility Tool Negative Size Parameter Vulnerability](./utility-tool-negative-size-parameter-vulnerability/)
 
 ### Details
 - Library: [NASA-CFITSIO]([https://kr.bandisoft.com/bandiview/](https://heasarc.gsfc.nasa.gov/fitsio/))
